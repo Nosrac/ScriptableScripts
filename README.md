@@ -11,7 +11,8 @@ Put any script you want to use in your Scriptable scripts folder.
 ### Usage:
 
 Import the file
-```var KeyValueDB = importModule('KeyValueDB');
+```
+var KeyValueDB = importModule('KeyValueDB');
 var db = new KeyValueDB('YourProjectName');
 ```
 
