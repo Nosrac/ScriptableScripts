@@ -2,7 +2,7 @@
 
 Put any script you want to use in your Scriptable scripts folder.
 
-## KeyValueDB
+## [KeyValueDB](https://github.com/Nosrac/ScriptableScripts/blob/master/KeyValueDB.js)
 
 ### Notes:
 - Local storage only currently
